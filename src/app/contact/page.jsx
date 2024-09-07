@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import { Navbar , MapComponent} from '../../components';
-import Banner from '../../../public/images/blogBanner.jpg';
+import Banner from '../../../public/images/imgGallery/6.jpg';
 
 
 const Page = () => {
