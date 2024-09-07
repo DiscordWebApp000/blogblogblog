@@ -1,0 +1,103 @@
+[
+    {
+      "resim": "/images/imgGallery/1.jpg",
+      "guncelDurum": "GÜNCEl",
+      "baslik": "Köyceğiz Koyu",
+      "aciklama": "Muğla'nın sakin ve doğal köyü.",
+      "metin": "Köyceğiz Koyu, doğal güzellikleri ve temiz denizi ile ünlü bir tatil köyüdür. Yürüyüş yapabilir, denizin keyfini çıkarabilirsiniz.",
+      "kullaniciResmi": "/images/user3.jpeg",
+      "kullaniciIsmi": "Emre Yılmaz",
+      "tarih": "2024-05-12"
+    },
+    {
+      "resim": "/images/imgGallery/2.jpeg",
+      "guncelDurum": "eski",
+      "baslik": "Akyaka Koyu",
+      "aciklama": "Gökova Körfezi'nde muhteşem bir koy.",
+      "metin": "Akyaka Koyu, doğal güzellikleri, plajları ve su sporları imkanları ile ünlüdür. Ege'nin saklı cenneti olarak bilinir.",
+      "kullaniciResmi": "/images/user2.jpeg",
+      "kullaniciIsmi": "Selin Demir",
+      "tarih": "2022-08-20"
+    },
+    {
+      "resim": "/images/imgGallery/3.jpg",
+      "guncelDurum": "guncel",
+      "baslik": "Çeşmealtı Koyu",
+      "aciklama": "İzmir'in popüler tatil noktalarından biri.",
+      "metin": "Çeşmealtı Koyu, İzmir'in gözde tatil beldelerinden biridir. Plajları, restoranları ve sosyal imkanları ile dikkat çeker.",
+      "kullaniciResmi": "/images/user1.jpeg",
+      "kullaniciIsmi": "Ali Yılmaz",
+      "tarih": "2023-06-15"
+    },
+    {
+      "resim": "/images/imgGallery/4.webp",
+      "guncelDurum": "eski",
+      "baslik": "Patara Koyu",
+      "aciklama": "Antalya'nın tarihi ve doğal güzellikleri.",
+      "metin": "Patara Koyu, tarihi kalıntılar ve uzun plajları ile ünlüdür. Aynı zamanda caretta caretta kaplumbağalarının üreme alanıdır.",
+      "kullaniciResmi": "/images/user2.jpeg",
+      "kullaniciIsmi": "Burak Aydın",
+      "tarih": "2021-12-10"
+    },
+    {
+      "resim": "/images/imgGallery/5.jpg",
+      "guncelDurum": "guncel",
+      "baslik": "Kaş Koyu",
+      "aciklama": "Deniz, güneş ve tarih dolu bir koy.",
+      "metin": "Kaş Koyu, Akdeniz'in en güzel köylerinden biridir. Hem deniz tatili hem de tarihi geziler için ideal bir noktadır.",
+      "kullaniciResmi": "/images/user2.jpeg",
+      "kullaniciIsmi": "Ayşe Kaya",
+      "tarih": "2024-02-22"
+    },
+    {
+      "resim": "/images/imgGallery/6.jpg",
+      "guncelDurum": "eski",
+      "baslik": "Fethiye Koyu",
+      "aciklama": "Fethiye'nin saklı köylerinden biri.",
+      "metin": "Fethiye Koyu, doğal güzellikleri ve sakin atmosferi ile tatilcilerin tercih ettiği bir noktadır. Özellikle doğa yürüyüşleri için uygundur.",
+      "kullaniciResmi": "/images/user1.jpeg",
+      "kullaniciIsmi": "Zeynep Öztürk",
+      "tarih": "2020-09-09"
+    },
+    {
+      "resim": "/images/imgGallery/8.jpg",
+      "guncelDurum": "guncel",
+      "baslik": "Kalkan Koyu",
+      "aciklama": "Antalya'nın gözde tatil beldelerinden biri.",
+      "metin": "Kalkan Koyu, güzel plajları ve deniz ürünleri restoranları ile ünlüdür. Tatilciler için hem rahatlama hem de eğlence sunar.",
+      "kullaniciResmi": "/images/user1.jpeg",
+      "kullaniciIsmi": "Mehmet Çelik",
+      "tarih": "2024-03-15"
+    },
+    {
+      "resim": "/images/imgGallery/1.jpg",
+      "guncelDurum": "eski",
+      "baslik": "Gökçeada Koyu",
+      "aciklama": "Türkiye'nin en büyük adası Gökçeada'da bir koy.",
+      "metin": "Gökçeada Koyu, hem doğal güzellikleri hem de tarihi dokusuyla dikkat çeker. Adanın en güzel plajlarından biridir.",
+      "kullaniciResmi": "/images/user3.jpe",
+      "kullaniciIsmi": "Ege Kurt",
+      "tarih": "2021-11-25"
+    },
+    {
+      "resim": "/images/imgGallery/1.jpg",
+      "guncelDurum": "guncel",
+      "baslik": "Alaçatı Koyu",
+      "aciklama": "Çeşme'nin popüler tatil beldelerinden biri.",
+      "metin": "Alaçatı Koyu, özellikle rüzgar sörfü ve gece hayatı ile ünlüdür. Hem eğlenceli hem de dinlendirici bir tatil için idealdir.",
+      "kullaniciResmi": "/images/user2.jpeg",
+      "kullaniciIsmi": "Deniz Demir",
+      "tarih": "2024-04-08"
+    },
+    {
+      "resim": "/images/imgGallery/1.jpg",
+      "guncelDurum": "eski",
+      "baslik": "Bodrum Koyu",
+      "aciklama": "Bodrum'un en güzel köylerinden biri.",
+      "metin": "Bodrum Koyu, güzel plajları ve hareketli sosyal hayatı ile ünlüdür. Hem tatilciler hem de gece hayatı sevenler için uygundur.",
+      "kullaniciResmi": "/images/user1.jpeg",
+      "kullaniciIsmi": "Gülcan Yalçın",
+      "tarih": "2022-05-30"
+    }
+  ]
+  
