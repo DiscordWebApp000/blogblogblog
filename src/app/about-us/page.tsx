@@ -33,7 +33,7 @@ const Page = () => {
                 <p>
                   <strong>Şehrin kalabalığından uzak, doğayla iç içe bir tatil</strong> mi arıyorsunuz? Tatil köyümüz, 
                   modern konforu ve doğanın huzurunu bir araya getirerek sizlere eşsiz bir tatil deneyimi sunuyor. 
-                  Türkiye'nin en gözde bölgelerinden birinde yer alan köyümüz, doğanın kalbinde, denize sadece birkaç 
+                  Türkiye&aposnin en gözde bölgelerinden birinde yer alan köyümüz, doğanın kalbinde, denize sadece birkaç 
                   adım mesafede.
                 </p>
                 <p>
